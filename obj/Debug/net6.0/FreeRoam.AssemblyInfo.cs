@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FreeRoam")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9241a7750bbc09d7b717c1811d8da08a096ba653")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+290cf87a14e1f5afe1389841173b3a260460d172")]
 [assembly: System.Reflection.AssemblyProductAttribute("FreeRoam")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FreeRoam")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
